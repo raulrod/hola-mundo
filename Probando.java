@@ -20,6 +20,11 @@ public class Probando {
         
         Scanner teclado = new Scanner(System.in);
         System.out.println("hola mundo");
+        int num, num2;
+        num = 23;
+        num2 = 34;
+        
+        System.out.println("El resultado de la suma es: "+num+num2);
     }
     
 }
